@@ -1,3 +1,3 @@
-Tugas Akhir Digital Talent FGA - Front End
-Nama  : Mohammad Malik Fajar
-Kelas : D
+#Tugas Akhir Digital Talent FGA - Front End
+#Nama  : Mohammad Malik Fajar
+#Kelas : D
